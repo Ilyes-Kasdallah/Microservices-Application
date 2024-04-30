@@ -28,7 +28,6 @@ public class ProductServiceApplication implements CommandLineRunner {
             product.setName("iPhone 13");
             product.setDescription("iPhone 13");
             product.setPrice(BigDecimal.valueOf(1000));
-
             productRepository.save(product);
         }
     }
