@@ -2,7 +2,7 @@
 
 # Microservices E-Commerce Application
 
-This repository contains the source code for a **Microservices-based E-Commerce Application**. It is designed using **Spring Boot** and incorporates modern DevOps practices with **Prometheus** and **Grafana** for monitoring, and deployment using **Docker**.
+This repository contains the source code for a **Microservices-based E-Commerce Application**. It is designed using **Spring Boot** and incorporates modern DevOps practices with **Prometheus** and **Grafana** for monitoring, and deployment using **Docker** and **Jenkins**.
 
 ## Overview
 
