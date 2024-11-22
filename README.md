@@ -1,6 +1,4 @@
-Here’s the updated `README.md` with Kubernetes deployment steps removed:
 
----
 
 # Microservices E-Commerce Application
 
@@ -149,5 +147,3 @@ If you have any questions or feedback, feel free to reach out:
 - **GitHub**: [Ilyes-Kasdallah](https://github.com/Ilyes-Kasdallah)
 
 ---
-
-This version excludes Kubernetes steps while retaining Docker deployment and monitoring instructions. Let me know if more adjustments are needed!
